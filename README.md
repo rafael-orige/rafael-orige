@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! Me chamo Rafael Orige 👋
 
-<!--
-**rafael-orige/rafael-orige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu trabalho com front-end.
+- 🌱 No momento estou estudando ReactJS.
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/rafael-orige">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-orige&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-orige&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+ <div>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+ </div>
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/rafael-vargas-363013221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/rafael-vargas-363013221/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /></a>
+    
+    
+  </div>
