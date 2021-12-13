@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rafael Orige 👋
 
 - 🔭 Hoje eu trabalho com front-end.
-- 🌱 No momento estou estudando ReactJS.
+- 🌱 No momento estou estudando NodeJS.
 - 😄 Pronomes: Ele/Dele
 
 <div>
